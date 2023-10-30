@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robert691stewart-projects/static/css/main.073c9b0a.css",
+    "main.js": "/robert691stewart-projects/static/js/main.11fb593a.js",
+    "index.html": "/robert691stewart-projects/index.html",
+    "main.073c9b0a.css.map": "/robert691stewart-projects/static/css/main.073c9b0a.css.map",
+    "main.11fb593a.js.map": "/robert691stewart-projects/static/js/main.11fb593a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11fb593a.js"
+  ]
+}
